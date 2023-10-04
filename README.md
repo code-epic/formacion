@@ -2,6 +2,7 @@
 El conocimiento empírico es aquel que está basado en las experiencias, en último término, 
 es la percepción que tenemos del mundo, pues nos dice qué es lo que existe y cuáles son 
 sus características.
+La formación empírica no es metódica, ni se planifica simplemente se desarrolla en el día a día, no existe currículo y escuela que la organice, es una relación con la cultura que identifica la comunidad; lo que sí existe es la apropiación de los saberes y haceres en la práctica.
 
 ## Caracteristicas
 * Particular: cuando no puede garantizar que lo conocido se cumpla siempre y en todos los casos, como ocurre con el conocimiento: «En otoño, los árboles pierden sus hojas».
