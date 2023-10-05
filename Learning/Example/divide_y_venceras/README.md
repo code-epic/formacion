@@ -1,6 +1,6 @@
 # Divide y Venceras 
 ***
-*Nombre del Tema:* arreglo
+*Nombre del Tema:* divide_y_venceras
 *Autor:* Maria Guedez <mariaaguedez.08@gmail.com>
 * Creado:* 03/10/2023
 * Versión:* 1.0
@@ -10,13 +10,24 @@
 La funcion **numeroMayor** toma la matriz y devuelve un vector que contiene los valores maximos de cada subvector, luego imprime en pantalla los resultados.
 ***
 ## Estructura Python
-* matriz
-* funcion
-    * vector
-    * ciclo repetitivo
-    * 
+* Matriz
+* Función
+    * Vector
+    * Ciclo repetitivo **For**
+    * **max()** Function
+    * **append()** Function
+    * **return** value
+* Imprime vector **resultado**
+* Imprime vector el _máximo_ del vector **resultado**
 
 ```python
+vectores = [
+    [21, 545, 56, 32, 86],
+    [345, 156, 78, 10, 98],
+    [46, 96, 357, 489],
+    [456, 789, 72, 8756],
+]
+
 def numeroMayor(vectores):
     resultado = []      
     for i in vectores:  
