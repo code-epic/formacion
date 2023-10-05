@@ -17,4 +17,4 @@ El empirismo considera el conocimiento de la naturaleza, sin embargo Kant propus
 
 Dando una explicación más detallada de los juicios a priori, Kant nos pone un punto de partida donde se debe juzgar antes de que pase el suceso para validarlo y que cuente como racionalista, del mismo modo debe tener propiedades y la validez universal y necesaria para ser un criterio diferenciación. Un ejemplo para probar esto sería: "Si eliminamos de cada objeto estas características o incorporamos sus características empíricas, solo permanecerían sus propiedades del conocimiento a priori, por ejemplo el espacio". Siguiendo con esta ejemplificación se podría decir que el espacio no es una característica del cosmos, sino de la razón, la razón lo pone para poderlo experimentar porque, el tiempo y el espacio son a priori.
 
-
+esto es un cambio
