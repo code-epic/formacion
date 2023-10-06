@@ -1,3 +1,5 @@
+console.time();
+
 matriz = [
     [839, 4321, 543, 5432, 541, 13],
     [432, 532, 98, 431, 723, 983, 958],
@@ -25,3 +27,5 @@ function obtNumMax(){
 };
 
 obtNumMax()
+
+console.timeEnd();
