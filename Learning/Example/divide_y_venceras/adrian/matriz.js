@@ -17,10 +17,11 @@ function obtNumMax(){
         let maximo = Math.max(...matrizActual);
         resultados.push(maximo);
     };
-
+    console.log("Los mayores son " + resultados)
+    
     // obtener el numero de 'resultados'
     let numeroMayor = Math.max(...resultados)
-    console.log(numeroMayor)
+    console.log("El mayor es " + numeroMayor)
 };
 
 obtNumMax()
